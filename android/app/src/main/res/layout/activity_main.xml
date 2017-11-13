@@ -3,11 +3,10 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation=""
-    tools:context="com.wyatt.myblog.MainActivity">
+    tools:context="com.wyatt.myblog.activity.MainActivity">
 
     <TextView
-        android:text="新建"
+        android:text="模仿书籍翻页"
         android:gravity="center"
         android:layout_marginTop="10dp"
         android:textColor="@color/white"

@@ -1,4 +1,4 @@
-package com.wyatt.myblog;
+package com.wyatt.myblog.activity;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
