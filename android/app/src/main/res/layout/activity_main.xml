@@ -1,19 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    tools:context="com.wyatt.myblog.activity.MainActivity">
+    android:orientation="vertical"
+    android:layout_height="match_parent">
 
-    <TextView
-        android:text="模仿书籍翻页"
+    <LinearLayout
         android:gravity="center"
-        android:layout_marginTop="10dp"
-        android:textColor="@color/white"
-        android:background="@color/colorPrimary"
-        android:onClick="onCreateBlog"
         android:layout_width="match_parent"
-        android:layout_height="48dp" />
+        android:layout_height="44dp" >
 
+    </LinearLayout>
+    <View
+        android:background="@color/adornColor"
+        android:layout_height="1dp"
+        android:layout_width="match_parent"/>
 
 </LinearLayout>

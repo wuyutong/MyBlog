@@ -37,4 +37,4 @@
 `}`
 
 
-[MarkDown入门](http://www.jianshu.com/p/1e402922ee32/)
+学习[MarkDown入门](http://www.jianshu.com/p/1e402922ee32/)

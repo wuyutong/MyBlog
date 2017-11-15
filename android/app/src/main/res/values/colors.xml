@@ -5,4 +5,8 @@
     <color name="colorAccent">#FF4081</color>
     <color name="white">#fff</color>
     <color name="black">#000</color>
+    <color name="mainColor">#44a8ee</color>
+    <color name="auxiliaryColorOne">#ffd66b</color>
+    <color name="auxiliaryColorTwo">#313131</color>
+    <color name="adornColor">#f0f1f5</color>
 </resources>
