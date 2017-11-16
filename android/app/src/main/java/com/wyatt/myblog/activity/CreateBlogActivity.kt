@@ -5,13 +5,13 @@ import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import com.wyatt.myblog.R
+import com.wyatt.myblog.view.read.ReadView1
 import kotlinx.android.synthetic.main.activity_create_blog.*
 
 class CreateBlogActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_create_blog)
-        tvTitle.setText(getMyTitle())
     }
 
     fun onCreateBlog(view: View) {
